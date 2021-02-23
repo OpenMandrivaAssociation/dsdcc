@@ -10,7 +10,7 @@ License:        GPL-3.0-or-later
 Group:          Productivity/Hamradio/Other
 URL:            https://github.com/f4exb/dsdcc
 #Git-Clone:     https://github.com/f4exb/dsdcc.git
-Source:         https://github.com/f4exb/dsdcc/archive/%{version}/%{name}-%{version}.tar.gz
+Source0:	https://github.com/f4exb/dsdcc/archive/v%{version}.tar.gz
 BuildRequires:  cmake
 
 %description
