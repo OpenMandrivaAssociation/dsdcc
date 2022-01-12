@@ -3,8 +3,8 @@
 %define devname %mklibname -d %{name}
 
 Name:           dsdcc
-Version:        1.9.0
-Release:        1%{?dist}
+Version:	1.9.3
+Release:	1
 Summary:        Digital Speech Decoder (DSD) rewritten as a C++ library
 License:        GPL-3.0-or-later
 Group:          Productivity/Hamradio/Other
