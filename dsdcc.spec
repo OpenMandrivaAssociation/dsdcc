@@ -4,7 +4,7 @@
 
 Name:           dsdcc
 Version:	1.9.3
-Release:	1
+Release:	2
 Summary:        Digital Speech Decoder (DSD) rewritten as a C++ library
 License:        GPL-3.0-or-later
 Group:          Productivity/Hamradio/Other
